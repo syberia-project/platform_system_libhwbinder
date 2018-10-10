@@ -38,7 +38,7 @@ cc_defaults {
     },
     clang: true,
     sanitize: {
-        misc_undefined: ["integer"],
+        never: true,
     },
     srcs: [
         "Binder.cpp",
