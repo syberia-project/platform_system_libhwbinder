@@ -120,8 +120,8 @@ private:
             const size_t        mMmapSize;
 };
 
-}; // namespace hardware
-}; // namespace android
+} // namespace hardware
+} // namespace android
 
 // ---------------------------------------------------------------------------
 

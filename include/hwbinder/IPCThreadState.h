@@ -147,8 +147,8 @@ private:
             bool mIsPollingThread;
 };
 
-}; // namespace hardware
-}; // namespace android
+} // namespace hardware
+} // namespace android
 
 // ---------------------------------------------------------------------------
 
